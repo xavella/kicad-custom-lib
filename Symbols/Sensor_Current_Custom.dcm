@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS711EX
+D ACS711EX breakout board for Allegro’s ACS711KEXLT-31AB-T Hall effect-based linear current sensor
+F https://www.pololu.com/product/2453
+$ENDCMP
+#
+#End Doc Library
