@@ -12,7 +12,7 @@ Clone this repository to your local machine:
 
 Add the cloned repository to the KiCad environmental variables by selecting *Preferences* > *Configure Paths* > add a new environmental variable:
 
-    Name: CUSTOMLIB
+    Name: KICAD_CUSTOMPATH
     Path: $USER/kicad-custom-lib
 
 
